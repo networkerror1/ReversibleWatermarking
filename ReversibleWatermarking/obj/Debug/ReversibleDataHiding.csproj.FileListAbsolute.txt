@@ -1,0 +1,57 @@
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\ReversibleDataHiding.exe
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\ReversibleDataHiding.pdb
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.csproj.GenerateResource.Cache
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.exe
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.pdb
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.Form1.resources
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Main.resources
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.AboutDialog.resources
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.DataExtract.resources
+C:\Documents and Settings\IBRAIN-02\My Documents\Visual Studio 2008\Projects\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Graph.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.exe
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.pdb
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\ReversibleDataHiding.exe
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\ReversibleDataHiding.pdb
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.AboutDialog.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.Form1.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Main.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.csproj.GenerateResource.Cache
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Login.resources
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.exe
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.pdb
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\ReversibleDataHiding.exe
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\ReversibleDataHiding.pdb
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.AboutDialog.resources
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.Form1.resources
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Login.resources
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Main.resources
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+F:\projects\2013\Reversible Data Hiding in\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.csproj.GenerateResource.Cache
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.exe
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.pdb
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\ReversibleDataHiding.exe
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\ReversibleDataHiding.pdb
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.AboutDialog.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.Form1.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Login.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Main.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.csproj.GenerateResource.Cache
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\HistogramDemo.exe
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleDataHiding\ReversibleDataHiding\bin\Debug\HistogramDemo.pdb
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.exe
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleDataHiding\obj\Debug\ReversibleDataHiding.pdb

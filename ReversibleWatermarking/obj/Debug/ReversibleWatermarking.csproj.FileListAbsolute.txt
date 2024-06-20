@@ -1,0 +1,100 @@
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.exe
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.pdb
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.exe
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.pdb
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.exe
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.pdb
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.AboutDialog.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.Form1.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Login.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Main.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+F:\projects\2013\Reversible Watermarking Based on invariant image classificationand Dynamic Histogram shifting\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csproj.GenerateResource.Cache
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.exe
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.pdb
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.exe
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.pdb
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.exe
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.pdb
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ResolveAssemblyReference.cache
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.AboutDialog.resources
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.Form1.resources
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Login.resources
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Main.resources
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+F:\forum\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csproj.GenerateResource.Cache
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.exe
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.pdb
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.exe
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.pdb
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.pdb
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ResolveAssemblyReference.cache
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.AboutDialog.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.Form1.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Login.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Main.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\REVIEW DOCUMENTS\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csproj.GenerateResource.Cache
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.exe
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.pdb
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.exe
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.pdb
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.pdb
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ResolveAssemblyReference.cache
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.AboutDialog.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.Form1.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Login.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Main.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+D:\1_2013 IEEE PROJECTS\2_DOTNET\JPD1340 - Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csproj.GenerateResource.Cache
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.exe
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.pdb
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.exe
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.pdb
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.pdb
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csprojResolveAssemblyReference.cache
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.AboutDialog.resources
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.Form1.resources
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Login.resources
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Main.resources
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+F:\NITS PROJECTS\New Projs\Reversible Watermarking Based on Invariant Image\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csproj.GenerateResource.Cache
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.exe
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.pdb
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.exe
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.pdb
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.pdb
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csprojResolveAssemblyReference.cache
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.AboutDialog.resources
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.Form1.resources
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Login.resources
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Main.resources
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+D:\Projects\PROJECTS\DOTNET\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csproj.GenerateResource.Cache
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.exe
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.pdb
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.exe
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\ReversibleDataHiding.pdb
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\bin\Debug\HistogramDemo.pdb
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csprojResolveAssemblyReference.cache
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.AboutDialog.resources
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.DataEmbed.resources
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.Form1.resources
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\MPEGBuilder1.FrameNumberDialog.resources
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Login.resources
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Main.resources
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleDataHiding.Properties.Resources.resources
+C:\Users\manoj\Desktop\Steganography using reversible\Source Code\ReversibleWatermarking\ReversibleWatermarking\obj\Debug\ReversibleWatermarking.csproj.GenerateResource.Cache
