@@ -1,0 +1,57 @@
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.dll
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.pdb
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\bin\Debug\BitmapImage.dll
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\bin\Debug\BitmapImage.pdb
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\ResolveAssemblyReference.cache
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.ByteListDialog.resources
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCEncodeDialog.resources
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCTCalculationDialog.resources
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.PixelDisplayDialog.resources
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.UserControl1.resources
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.YUVDisplayDialog.resources
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.csproj.GenerateResource.Cache
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.dll
+D:\1_2012 IEEE projects\2_DOTNET\JPD1256- Low-Complexity Compression Method\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.pdb
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.dll
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.pdb
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\bin\Debug\BitmapImage.dll
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\bin\Debug\BitmapImage.pdb
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.ByteListDialog.resources
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCEncodeDialog.resources
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCTCalculationDialog.resources
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.PixelDisplayDialog.resources
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.UserControl1.resources
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.YUVDisplayDialog.resources
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.csproj.GenerateResource.Cache
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.dll
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.pdb
+D:\Prabu\New Folder\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.Properties.Resources.resources
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.dll
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.pdb
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\bin\Debug\BitmapImage.dll
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\bin\Debug\BitmapImage.pdb
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.ByteListDialog.resources
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCEncodeDialog.resources
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCTCalculationDialog.resources
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.PixelDisplayDialog.resources
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.Properties.Resources.resources
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.UserControl1.resources
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.YUVDisplayDialog.resources
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.csproj.GenerateResource.Cache
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.dll
+D:\Prabu\Low-Complexity\Source Code\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.pdb
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.ByteListDialog.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCEncodeDialog.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCTCalculationDialog.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.PixelDisplayDialog.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.Properties.Resources.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.UserControl1.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.YUVDisplayDialog.resources
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.csproj.GenerateResource.Cache
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.dll
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.pdb
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.dll
+F:\projects\2013\ReversibleDataHiding\ReversibleDataHiding\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.pdb

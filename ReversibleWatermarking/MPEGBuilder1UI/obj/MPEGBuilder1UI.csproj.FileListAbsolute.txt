@@ -1,0 +1,42 @@
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.dll
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.pdb
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\bin\Debug\BitmapImage.dll
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\bin\Debug\BitmapImage.pdb
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\ResolveAssemblyReference.cache
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.ByteListDialog.resources
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCEncodeDialog.resources
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCTCalculationDialog.resources
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.PixelDisplayDialog.resources
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.UserControl1.resources
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.YUVDisplayDialog.resources
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.csproj.GenerateResource.Cache
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.dll
+F:\Prakash-Laptop\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.pdb
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.dll
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.pdb
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\bin\Debug\BitmapImage.dll
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\bin\Debug\BitmapImage.pdb
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\ResolveAssemblyReference.cache
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.ByteListDialog.resources
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCEncodeDialog.resources
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCTCalculationDialog.resources
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.PixelDisplayDialog.resources
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.UserControl1.resources
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.YUVDisplayDialog.resources
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.csproj.GenerateResource.Cache
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.dll
+E:\Downloads\Compressed\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.pdb
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.dll
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\bin\Debug\MPEGBuilder1UI.pdb
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\bin\Debug\BitmapImage.dll
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\bin\Debug\BitmapImage.pdb
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.ByteListDialog.resources
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCEncodeDialog.resources
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.DCTCalculationDialog.resources
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.PixelDisplayDialog.resources
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.UserControl1.resources
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.YUVDisplayDialog.resources
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.csproj.GenerateResource.Cache
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.dll
+D:\PROJECTS\1_2011 IEEE projects\2_DOTNET\CATEGORY 1\Robust Image\Source\MPEGBuilder1UI\obj\Debug\MPEGBuilder1UI.pdb

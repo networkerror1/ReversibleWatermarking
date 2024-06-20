@@ -1,0 +1,14 @@
+bin\Debug\MPEGBuilder1UI.dll
+bin\Debug\MPEGBuilder1UI.pdb
+bin\Debug\BitmapImage.dll
+bin\Debug\BitmapImage.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MPEGBuilder1UI.ByteListDialog.resources
+obj\Debug\MPEGBuilder1UI.DCEncodeDialog.resources
+obj\Debug\MPEGBuilder1UI.DCTCalculationDialog.resources
+obj\Debug\MPEGBuilder1UI.PixelDisplayDialog.resources
+obj\Debug\MPEGBuilder1UI.UserControl1.resources
+obj\Debug\MPEGBuilder1UI.YUVDisplayDialog.resources
+obj\Debug\MPEGBuilder1UI.csproj.GenerateResource.Cache
+obj\Debug\MPEGBuilder1UI.dll
+obj\Debug\MPEGBuilder1UI.pdb
